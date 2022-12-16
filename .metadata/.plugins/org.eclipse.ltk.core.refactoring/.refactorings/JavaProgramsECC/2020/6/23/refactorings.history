@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ECCPrograms.SumNatural&apos; to &apos;SumNaturalNum&apos;&#x0D;&#x0A;- Original project: &apos;JavaProgramsECC&apos;&#x0D;&#x0A;- Original element: &apos;ECCPrograms.SumNatural&apos;&#x0D;&#x0A;- Renamed element: &apos;ECCPrograms.SumNaturalNum&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SumNatural&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ECCPrograms{SumNatural.java[SumNatural" matchStrategy="1" name="SumNaturalNum" qualified="false" references="true" similarDeclarations="false" stamp="1591176890416" textual="false" version="1.0"/>
+</session>
